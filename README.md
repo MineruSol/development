@@ -10,14 +10,17 @@
     - [JavaScript](#javascript)
     - [Node.js](#node.js)
     - [TypeScript](#typescript)
+    - [React](#react)
     - [Webpack](#webpack)
+
 <!-- /TOC -->
 
 # 전체 플로우
 1. JavaScript란?
 2. Node.js란?
 3. TypeScript란?
-4. Webpack이란?
+4. react란?
+5. Webpack이란?
 
 ## JavaScript
 **JavaScript란?**
@@ -26,17 +29,14 @@
 
 웹 페이지의 내용에 대한 것은 html이, 디자인에 대한 것은 css가, 움직임은 javascript가 담당하고 있다.
 
-
-
-
 ## Node.js
 **Node.js란?**
 
 ## TypeScript
 **TypeScript란?**
 
-
-
+## React
+**React란?**
 
 ## Webpack
 **Webpack이란?**
@@ -63,3 +63,9 @@ ex) webpack ./entry.js bundle.js
 엔트리 파일은 서로 의존 관계에 있는 다양한 모듈을 사용하는 시작점이 되는 파일이다. 번들 파일은 비라우저에서 실행할 수 있게 모듈을 컴파일한 파일이다.
 
 webpack에서 컴파일은 엔트리 파일을 시작으로 의존 관계에 있는 모듈을 엮어서 하나의 번들 파일을 만드는 작업이다.
+
+### TypeScript + React + Webpack
+```
+create-react-app type-react-pack --scripts-version=react-scripts-ts
+npm install -D webpack webpack-cli typescript awesome-typescript-loader
+```
