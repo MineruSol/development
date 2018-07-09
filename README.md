@@ -14,18 +14,29 @@
 <!-- /TOC -->
 
 # 전체 플로우
-1. JavaScript란
-2. Node.js란
-3. TypeScript란
+1. JavaScript란?
+2. Node.js란?
+3. TypeScript란?
+4. Webpack이란?
 
 ## JavaScript
 **JavaScript란?**
+
+요약 : JavaScript는 웹페이지를 구성하는 언어 중 하나이며, 한 화면에서 Action을 담당한다.
+
+웹 페이지의 내용에 대한 것은 html이, 디자인에 대한 것은 css가, 움직임은 javascript가 담당하고 있다.
+
+
+
 
 ## Node.js
 **Node.js란?**
 
 ## TypeScript
 **TypeScript란?**
+
+
+
 
 ## Webpack
 **Webpack이란?**
