@@ -7,20 +7,19 @@
 - [프로젝트 소개](#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
 - [목차](#%EB%AA%A9%EC%B0%A8)
 - [전체 플로우](#%EC%A0%84%EC%B2%B4-%ED%94%8C%EB%A1%9C%EC%9A%B0)
-    - [JavaScript](##JavaScript)
-    - [Node.js](##Node.js)
+    - [JavaScript](#JavaScript)
+    - [Node.js](#Node.js)
     - [TypeScript](##TypesScript)
 
 <!-- /TOC -->
 
 # 전체 플로우
-1. JavaScript
-2. Node.js
-3. TypeScript
+1. JavaScript란
+2. Node.js란
+3. TypeScript란
 
 ## JavaScript
 **JavaScript란?**
-
 
 ## Node.js
 **Node.js란?**
